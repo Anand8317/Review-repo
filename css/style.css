@@ -1,0 +1,44 @@
+#main {
+    background-color: #EEEEEE;
+}
+#title {
+    margin: auto;
+    max-width: 50%;
+    text-align: center;
+    
+}
+#img-div {
+    width: 90%;
+    background-color: white;
+    margin: auto;
+
+}
+#image {
+    display: block;
+    max-width: 90%;
+    height: auto;
+    margin: auto;
+    
+}
+#img-caption {
+    text-align: center;
+}
+
+#tribute-info {
+    max-width: 45%;
+    margin: auto;
+}
+li {
+    padding: 10px;
+}
+#italic {
+   padding: 20px;
+    
+}
+#footer {
+    max-width: 70%;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    font-size: large;
+}
